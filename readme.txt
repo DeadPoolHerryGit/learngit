@@ -9,4 +9,4 @@ Creating a new branch is quick and simple.
 
 Creating a new branch with --on-ff.
 
-Fixed bug with stash.
+Fixed bug with stash another perple.
