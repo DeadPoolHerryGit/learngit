@@ -6,3 +6,5 @@ Git tracks changes of files add words.
 
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+
+Creating a new branch with --on-ff.
