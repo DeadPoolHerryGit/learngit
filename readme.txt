@@ -3,3 +3,5 @@ Git is free software distributed under the GPL.
 This is a test words.
 Git has a mutable index called stage.
 Git tracks changes of files add words.
+
+Creating a new branch is quick.
